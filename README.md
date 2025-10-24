@@ -34,5 +34,5 @@ An example with libraries (numpy) imported into Python code.
 
 ## References
 
-  1. https://www.youtube.com/watch?v=oHGVDtgGbGo
+  1. https://chatgpt.com/share/6755fced-a7b4-8001-918d-66a337f7cdb4
   
