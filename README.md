@@ -12,7 +12,12 @@ That includes a simple schema that uses Python and Matlab to create a type of su
 
 In general, my MATLAB required almost no modification to run Python. There are functions such as pyenv that are useful for setting up Python in MATLAB, as well as py.sys.version for checking whether the interface is working.
 
-## Example 
+## Examples
+
+My example takes two inputs and adds the numbers together. It then displays the result. The code is entered into a MATLAB FUNCTION BLOCK.
+
+<img width="865" height="442" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />
+
 
 ## Observations
 1) No Problem with 1 / N inputs -----> 1 / M outputs
