@@ -16,8 +16,7 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 My example takes two inputs and adds the numbers together, then displays the result. 
 
--The code is entered into a MATLAB FUNCTION BLOCK.
--Display block, input blocks are also used.
+USED: Display block, input/output blocks, Matlab Function Block.
 
 <img width="865" height="442" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />
 
