@@ -8,13 +8,9 @@ That includes a simple schema that uses Python and Matlab to create a type of su
 
 <img width="636" height="163" alt="Screenshot_1" src="https://github.com/user-attachments/assets/562bc987-8c12-4690-b172-f3bdc9c52983" />
 
+## Approach
 
-## Approach / Methodology
-
-
-
-## Problems 
-
+## Observations
 
 ## References
 
