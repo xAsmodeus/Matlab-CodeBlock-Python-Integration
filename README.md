@@ -15,11 +15,13 @@ In general, my MATLAB required almost no modification to run Python. There are f
 ## Examples
 
 My example takes two inputs and adds the numbers together, then displays the result. 
+
 -The code is entered into a MATLAB FUNCTION BLOCK.
 -Display block, input blocks are also used.
+
 <img width="865" height="442" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />
 
-An example with libraries imported into Python code.
+An example with libraries (numpy) imported into Python code.
 
 <img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/9b227248-c62a-442e-926b-be229df70d52" />
 
