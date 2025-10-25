@@ -14,7 +14,7 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 **1. Two inputs -> adds the numbers together -> displays the result.** 
 
-USED: Display block, constants(input)/output blocks, Matlab Function Block.
+    USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
 <img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />  
 
