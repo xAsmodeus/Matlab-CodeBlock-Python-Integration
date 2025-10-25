@@ -18,7 +18,7 @@ USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
 <img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />  
 
-**2. An example with libraries (numpy) imported into Python code.**
+**2. An multiplication example with libraries (numpy) imported into Python code.**
 
 <img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/9b227248-c62a-442e-926b-be229df70d52" />
 
