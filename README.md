@@ -22,6 +22,10 @@ USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
 <img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/9b227248-c62a-442e-926b-be229df70d52" />
 
+## TEST FILES
+
+The files in the repository are examples for you to run. 
+
 ## Observations
 1) No Problem with 1 / N inputs -----> 1 / M outputs
    The MATLAB function block automatically recognizes the model's inputs/outputs through the code and thus adjusts what is needed. Then you just need to tweak variables/dimensions/connections, etc.
