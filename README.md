@@ -14,7 +14,7 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 ## Examples
 
-**bold**My example takes two inputs and adds the numbers together, then displays the result. 
+My example takes two inputs and adds the numbers together, then displays the result. 
 
 USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
