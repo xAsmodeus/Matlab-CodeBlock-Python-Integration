@@ -1,4 +1,3 @@
-# Matlab CodeBlock Python Integration
 
 ## Overview
                                          ** Runned and Tested in Matlab Simulink **
