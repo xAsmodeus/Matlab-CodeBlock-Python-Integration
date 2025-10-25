@@ -16,7 +16,7 @@ In general, my MATLAB required almost no modification to run Python. There are f
 
 USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
-<img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />
+<img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/85ac40c9-0f6c-403c-9e28-14c07cd50496" />  
 
 **2. An example with libraries (numpy) imported into Python code.**
 
