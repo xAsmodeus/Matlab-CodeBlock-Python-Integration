@@ -20,7 +20,7 @@ USED: Display block, constants(input)/output blocks, Matlab Function Block.
 
 **2. An example with libraries (numpy) imported into Python code.**
 
-<img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/9b227248-c62a-442e-926b-be229df70d52" />
+<img width="636" height="163" alt="image" src="https://github.com/user-attachments/assets/9b227248-c62a-442e-926b-be229df70d52" />
 
 ## Observations
 1) No Problem with 1 / N inputs -----> 1 / M outputs
