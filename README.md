@@ -1,7 +1,7 @@
 # Matlab CodeBlock Python Integration
 
 ## Overview
-                                        ** Runned and Tested in Matlab Simulink **
+                                         ** Runned and Tested in Matlab Simulink **
                                               
 There has been a task that I had to deal with, in the early stages after joining HERMES Team. 
 That includes a simple schema that uses Python and Matlab to create a type of subsystem that can utilize team's proexisting Python Code (Software) in the Matlab and Simulink Environment.
